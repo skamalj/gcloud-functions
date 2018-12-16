@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+wget
+google-cloud-storage
+google-cloud-datastore
+
